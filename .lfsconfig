@@ -1,0 +1,4 @@
+[lfs]
+	url = https://gitlab.com/jnewberry0502/openpilot-data.git/info/lfs
+	pushurl = ssh://git@gitlab.com/jnewberry0502/openpilot-data.git
+	locksverify = false
